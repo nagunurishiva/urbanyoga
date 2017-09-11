@@ -1,0 +1,114 @@
+body {
+	margin:0px;
+	padding:0px;
+}
+.header {
+	width:100%;
+	height:70px;
+	background:#ecf8f3;
+}
+.padd0 {
+	padding:0px;
+}
+.logo img {
+	width:200px;
+	height:70px;
+	padding:10px;
+}
+.nav {
+	background:url(../img/nav.jpg);
+	height:70px;
+	text-align:center;
+	margin-top:30px;
+	height:40px;
+	padding:0px;
+}
+.nav ul {
+	margin:0px;
+	padding:0;
+	margin-right:20px;
+}
+.nav ul li {
+	float:left;
+	margin-left:12px;
+	list-style:none;
+	border-right:2px solid #f1f1f1;
+}
+.nav ul li a {
+	color:#92afa0;
+	margin-top:10px;
+	display:block;
+	font-size:13px;
+	margin-right:12px;
+}
+.menu {
+	width:100%;
+	padding:20px;
+	background:#fff;
+}
+.menu ul {
+	margin:0px;
+	padding:0px;
+}
+.menu ul li {
+	float:left;
+	margin-left:20px;
+	list-style:none;
+}
+.menu ul li a {
+	color:#817d7d;
+	font-size:16px;
+}
+.menu ul li a:hover {
+	color:#000;
+}
+.active {
+	color:#000;
+}
+.content {
+	width:100%;
+	padding:30px;
+	height:1000px;
+	margin-top:20px;
+	background: rgba(245, 245, 238, 1);
+	background: -moz-radial-gradient(center, ellipse cover, rgba(245, 245, 238, 1) 0%, rgba(245, 245, 238, 1) 25%, rgba(245, 245, 238, 1) 38%, rgba(216, 215, 203, 1) 100%);
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(245, 245, 238, 1)), color-stop(25%, rgba(245, 245, 238, 1)), color-stop(38%, rgba(245, 245, 238, 1)), color-stop(100%, rgba(216, 215, 203, 1)));
+	background: -webkit-radial-gradient(center, ellipse cover, rgba(245, 245, 238, 1) 0%, rgba(245, 245, 238, 1) 25%, rgba(245, 245, 238, 1) 38%, rgba(216, 215, 203, 1) 100%);
+	background: -o-radial-gradient(center, ellipse cover, rgba(245, 245, 238, 1) 0%, rgba(245, 245, 238, 1) 25%, rgba(245, 245, 238, 1) 38%, rgba(216, 215, 203, 1) 100%);
+	background: -ms-radial-gradient(center, ellipse cover, rgba(245, 245, 238, 1) 0%, rgba(245, 245, 238, 1) 25%, rgba(245, 245, 238, 1) 38%, rgba(216, 215, 203, 1) 100%);
+	background: radial-gradient(ellipse at center, rgba(245, 245, 238, 1) 0%, rgba(245, 245, 238, 1) 25%, rgba(245, 245, 238, 1) 38%, rgba(216, 215, 203, 1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f5ee', endColorstr='#d8d7cb', GradientType=1 );
+}
+.highcharts-credits {
+	display:none !important;
+}
+.result {
+	background:#fff;
+	width:100%;
+	padding:10px;
+}
+.report {
+	font-size:16px;
+}
+.cost {
+	font-weight:900;
+}
+.more {	
+	font-size:14px;
+	color:#000;
+}
+#info {
+	font-size:14px;
+}
+#info2 {
+	font-size:14px;
+}
+#info3 {
+	font-size:14px;
+}
+.mt20 {
+	margin-top:20px;
+}
+.all {
+	font-size:14px;
+}
