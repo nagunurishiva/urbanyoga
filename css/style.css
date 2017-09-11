@@ -23,6 +23,9 @@ body {
 	height:40px;
 	padding:0px;
 }
+.add img{width:70px; height:70px;  margin-top:50px;}
+.add{text-align:center;}
+.add h5{text-align:center;}
 .nav ul {
 	margin:0px;
 	padding:0;
@@ -86,6 +89,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f5ee', end
 	background:#fff;
 	width:100%;
 	padding:10px;
+	min-width:310px;
 }
 .report {
 	font-size:16px;
